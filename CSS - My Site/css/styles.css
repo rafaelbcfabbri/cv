@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    color: #258d8d;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Patrick Hand', cursive
+}
+
+h2 {
+    color: #258d8d;
+    font-size: 2.5rem;
+    font-weight: normal;
+    text-align: center;
+    margin: 10px auto 30px auto;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 15px auto;
+}
+
+.title {
+    font-weight: bold;
+}
+.top-container {
+    background-color: #abffff;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 200px;
+}
+
+a {
+    color: #11999E;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.profile-pic {
+    margin: 50px 0 25px 0;
+    border-radius: 50%;
+}
+.my-description {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+.rulers {
+    width: 5%;
+    margin: 100px auto;
+    border-top: 10px dotted #888888;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.hi-text {
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.support-img1 {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.support-img2 {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+    #margin-right: 50px;
+}
+.contact-me {
+    text-align: center;
+}
+.btn {
+    display: inline-block;
+    font-size: 25px;
+    height: 40%;
+    background-color: #258d8d;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 30px;
+    margin: 20px auto;
+}
+
+.bottom-container {
+    margin: 50px 0 0 0;
+    background-color: #abffff;
+    padding: 50px;
+}
+
+.footer-link {
+    color: #258d8d;
+    margin: 100px 30px;
+    font-size: 20px;
+}
+
+.footer-me {
+    margin: 2% auto;
+    color: #095252;
+}
